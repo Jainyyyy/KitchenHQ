@@ -1,0 +1,11 @@
+{
+  "customerName": "Meera Shah",
+  "phone": "9876543210",
+  "item": "Chocolate cake 1kg",
+  "type": "BAKERY",
+  "fulfilment": "DELIVERY",
+  "locality": "Bopal",
+  "dueAt": "2026-12-01T17:00",
+  "family": "choc-cake",
+  "quantity": 2
+}
