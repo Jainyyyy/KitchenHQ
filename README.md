@@ -45,8 +45,8 @@ All paths are under `src/main/java/com/rasoiroute/`. The technical report explai
 ## Build and run
 
 ```
-git clone <repository-url>
-cd kitchenhq
+git clone https://github.com/Jainyyyy/KitchenHQ.git
+cd KitchenHQ
 mvn clean test
 mvn compile
 java -cp target/classes com.rasoiroute.api.RasoiServer
