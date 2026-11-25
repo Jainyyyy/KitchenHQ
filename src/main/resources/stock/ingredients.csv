@@ -1,0 +1,20 @@
+# SAMPLE DATA for the demo. These are rough example numbers, NOT the real kitchen's figures.
+# Replace them with the real supplies (this file can be edited without touching any code).
+# Columns: id, name, unit (g / ml / pcs), group, packSize (how it is bought), lowLevel (reorder when at or below), onHand (starting stock)
+id,name,unit,group,packSize,lowLevel,onHand
+cake-flour,Cake flour,g,Baking,1000,2000,8000
+sugar,Sugar,g,Baking,1000,3000,10000
+butter,Butter,g,Baking,500,1500,4000
+eggs,Eggs,pcs,Baking,30,30,120
+whipping-cream,Whipping cream,ml,Baking,1000,1500,4000
+fondant,Fondant,g,Baking,1000,1000,3000
+chocolate,Chocolate and cocoa,g,Baking,500,1000,3000
+milk,Milk,ml,Dairy,1000,3000,10000
+curd,Curd,g,Dairy,1000,2000,6000
+paneer,Paneer,g,Dairy,500,2000,6000
+ghee,Ghee,g,Dairy,500,1000,3000
+atta,Wheat flour (atta),g,Grains and pulses,5000,10000,40000
+rice,Rice,g,Grains and pulses,5000,10000,50000
+dal,Dal,g,Grains and pulses,1000,3000,15000
+oil,Cooking oil,ml,Cooking,1000,3000,15000
+vegetables,Vegetables,g,Fresh,1000,5000,25000

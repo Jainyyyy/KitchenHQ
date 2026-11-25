@@ -1,0 +1,10 @@
+# SAMPLE DATA for the demo. Each family is a group of similar products with one rough recipe.
+# Columns: family, label, type (BAKERY / CATERING / DAILY_FOOD), unit people order in, minQty, maxQty (used by the sample-order generator)
+family,label,type,unit,minQty,maxQty
+choc-cake,Chocolate cake,BAKERY,kg,1,3
+fondant-cake,Fondant / theme cake,BAKERY,kg,1,3
+cupcakes,Cupcakes,BAKERY,piece,6,24
+veg-lunch,Veg lunch menu,CATERING,plate,20,80
+snack-platter,Snacks platter,CATERING,plate,20,60
+sweet-box,Sweets and desserts,CATERING,plate,20,60
+tiffin,Tiffin / meal box,DAILY_FOOD,box,1,10

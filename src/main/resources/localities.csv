@@ -1,0 +1,27 @@
+# Ahmedabad localities used by KitchenHQ.
+#
+# IMPORTANT: these coordinates are APPROXIMATE placeholders. They were NOT checked against a map.
+# Before you use them in your report, check each one (in Google Maps: right-click a point and the
+# latitude, longitude appears at the top of the menu) and correct any that are off.
+# The app works with whatever numbers are in this file.
+#
+# "Kitchen" is the starting point of every route. Set it to the centre of the locality where the
+# kitchen is (a locality centre is enough; do not use an exact home address).
+name,latitude,longitude
+Kitchen,23.0300,72.5500
+Navrangpura,23.0383,72.5600
+Satellite,23.0267,72.5086
+Vastrapur,23.0396,72.5300
+Bodakdev,23.0420,72.5110
+Thaltej,23.0500,72.5000
+Bopal,23.0300,72.4650
+Maninagar,22.9967,72.6040
+Paldi,23.0120,72.5600
+Naranpura,23.0560,72.5560
+Gota,23.1000,72.5450
+Vastral,23.0030,72.6600
+Chandkheda,23.1100,72.5850
+Ghatlodia,23.0700,72.5400
+Ellisbridge,23.0230,72.5700
+Prahlad Nagar,23.0100,72.5100
+Memnagar,23.0500,72.5450
